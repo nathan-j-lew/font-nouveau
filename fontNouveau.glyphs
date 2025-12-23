@@ -65,7 +65,9 @@ vancouver
 balthazavar",
 carGo,
 Juice,
-"/O.002"
+"/O.002",
+Av,
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
 date = "2025-12-02 21:15:18 +0000";
 familyName = Flitwick;
@@ -102,14 +104,16 @@ name = Regular;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2025-12-22 23:02:12 +0000";
+kernLeft = A;
+kernRight = A;
+lastChange = "2025-12-23 00:12:01 +0000";
 layers = (
 {
 backgroundImage = {
 angle = 90;
 imagePath = "Images/A_-Regular.tif";
 locked = 1;
-pos = (1596,-1568);
+pos = (1518,-1568);
 scale = (1.4,1.4);
 };
 hints = (
@@ -132,48 +136,50 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(501,720,l),
-(423,642,l),
-(243,448,o),
-(65,251,o),
-(65,83,cs),
-(65,47,o),
-(73,13,o),
-(92,-20,c),
-(173,15,l),
-(138,66,o),
-(112,164,o),
-(164,256,cs),
-(198,316,o),
-(401,333,o),
-(487,309,c),
-(542,0,l),
-(652,0,l),
-(514,720,l)
+(423,720,l),
+(345,642,l),
+(165,448,o),
+(-13,251,o),
+(-13,83,cs),
+(-13,47,o),
+(-5,13,o),
+(14,-20,c),
+(95,15,l),
+(60,66,o),
+(34,164,o),
+(86,256,cs),
+(120,316,o),
+(323,333,o),
+(409,309,c),
+(464,0,l),
+(574,0,l),
+(436,720,l)
 );
 },
 {
 closed = 1;
 nodes = (
-(255,405,o),
-(357,513,o),
-(431,600,c),
-(439,600,l),
-(482,341,l),
-(410,352,o),
-(275,350,o),
-(192,312,c)
+(177,405,o),
+(279,513,o),
+(353,600,c),
+(361,600,l),
+(404,341,l),
+(332,352,o),
+(197,350,o),
+(114,312,c)
 );
 }
 );
-width = 840;
+width = 775;
 }
 );
 unicode = (65,97);
 },
 {
 glyphname = B;
-lastChange = "2025-12-22 01:14:31 +0000";
+kernLeft = B;
+kernRight = B;
+lastChange = "2025-12-23 00:12:19 +0000";
 layers = (
 {
 backgroundImage = {
@@ -267,7 +273,9 @@ unicode = (66,98);
 },
 {
 glyphname = C;
-lastChange = "2025-12-22 23:38:42 +0000";
+kernLeft = C;
+kernRight = C;
+lastChange = "2025-12-23 00:12:22 +0000";
 layers = (
 {
 backgroundImage = {
@@ -318,7 +326,9 @@ unicode = (67,99);
 },
 {
 glyphname = D;
-lastChange = "2025-12-22 07:02:05 +0000";
+kernLeft = D;
+kernRight = D;
+lastChange = "2025-12-23 00:12:25 +0000";
 layers = (
 {
 hints = (
@@ -382,7 +392,9 @@ unicode = (68,100);
 },
 {
 glyphname = E;
-lastChange = "2025-12-22 02:35:24 +0000";
+kernLeft = E;
+kernRight = E;
+lastChange = "2025-12-23 00:12:28 +0000";
 layers = (
 {
 layerId = m01;
@@ -449,7 +461,9 @@ unicode = (69,101);
 },
 {
 glyphname = F;
-lastChange = "2025-12-21 09:17:18 +0000";
+kernLeft = F;
+kernRight = F;
+lastChange = "2025-12-23 00:12:31 +0000";
 layers = (
 {
 layerId = m01;
@@ -502,7 +516,9 @@ unicode = (70,102);
 },
 {
 glyphname = G;
-lastChange = "2025-12-22 23:39:47 +0000";
+kernLeft = G;
+kernRight = G;
+lastChange = "2025-12-23 00:12:37 +0000";
 layers = (
 {
 backgroundImage = {
@@ -577,7 +593,9 @@ unicode = (71,103);
 },
 {
 glyphname = H;
-lastChange = "2025-12-22 06:52:01 +0000";
+kernLeft = H;
+kernRight = H;
+lastChange = "2025-12-23 00:12:41 +0000";
 layers = (
 {
 backgroundImage = {
@@ -642,7 +660,9 @@ unicode = (73,105);
 },
 {
 glyphname = J;
-lastChange = "2025-12-22 23:46:04 +0000";
+kernLeft = J;
+kernRight = J;
+lastChange = "2025-12-23 00:12:47 +0000";
 layers = (
 {
 hints = (
@@ -693,7 +713,9 @@ unicode = (74,106);
 },
 {
 glyphname = K;
-lastChange = "2025-12-22 23:43:55 +0000";
+kernLeft = K;
+kernRight = K;
+lastChange = "2025-12-23 00:12:50 +0000";
 layers = (
 {
 hints = (
@@ -765,7 +787,9 @@ unicode = (75,107);
 },
 {
 glyphname = L;
-lastChange = "2025-12-22 23:01:56 +0000";
+kernLeft = L;
+kernRight = L;
+lastChange = "2025-12-23 00:12:54 +0000";
 layers = (
 {
 layerId = m01;
@@ -797,7 +821,9 @@ unicode = (76,108);
 },
 {
 glyphname = M;
-lastChange = "2025-12-22 06:56:36 +0000";
+kernLeft = M;
+kernRight = M;
+lastChange = "2025-12-23 00:12:58 +0000";
 layers = (
 {
 backgroundImage = {
@@ -894,7 +920,9 @@ unicode = (77,109);
 },
 {
 glyphname = N;
-lastChange = "2025-12-22 07:00:53 +0000";
+kernLeft = N;
+kernRight = N;
+lastChange = "2025-12-23 00:13:02 +0000";
 layers = (
 {
 hints = (
@@ -979,7 +1007,9 @@ unicode = (78,110);
 },
 {
 glyphname = O;
-lastChange = "2025-12-22 23:02:04 +0000";
+kernLeft = O;
+kernRight = O;
+lastChange = "2025-12-23 00:13:05 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1033,7 +1063,9 @@ unicode = (79,111);
 },
 {
 glyphname = P;
-lastChange = "2025-12-22 06:16:03 +0000";
+kernLeft = P;
+kernRight = P;
+lastChange = "2025-12-23 00:13:09 +0000";
 layers = (
 {
 hints = (
@@ -1097,7 +1129,9 @@ unicode = (80,112);
 },
 {
 glyphname = Q;
-lastChange = "2025-12-22 23:37:18 +0000";
+kernLeft = Q;
+kernRight = Q;
+lastChange = "2025-12-23 00:13:12 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1163,7 +1197,9 @@ unicode = (81,113);
 },
 {
 glyphname = R;
-lastChange = "2025-12-22 22:13:55 +0000";
+kernLeft = R;
+kernRight = R;
+lastChange = "2025-12-23 00:13:14 +0000";
 layers = (
 {
 hints = (
@@ -1240,7 +1276,9 @@ unicode = (82,114);
 },
 {
 glyphname = S;
-lastChange = "2025-12-22 23:38:28 +0000";
+kernLeft = S;
+kernRight = S;
+lastChange = "2025-12-23 00:13:19 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1305,7 +1343,9 @@ unicode = (83,115);
 },
 {
 glyphname = T;
-lastChange = "2025-12-22 23:02:01 +0000";
+kernLeft = T;
+kernRight = T;
+lastChange = "2025-12-23 00:13:22 +0000";
 layers = (
 {
 hints = (
@@ -1372,7 +1412,9 @@ unicode = (84,116);
 },
 {
 glyphname = U;
-lastChange = "2025-12-22 23:00:41 +0000";
+kernLeft = U;
+kernRight = U;
+lastChange = "2025-12-23 00:13:27 +0000";
 layers = (
 {
 hints = (
@@ -1446,7 +1488,9 @@ unicode = (85,117);
 },
 {
 glyphname = V;
-lastChange = "2025-12-22 23:05:06 +0000";
+kernLeft = V;
+kernRight = V;
+lastChange = "2025-12-23 00:13:37 +0000";
 layers = (
 {
 hints = (
@@ -1495,7 +1539,9 @@ unicode = (86,118);
 },
 {
 glyphname = W;
-lastChange = "2025-12-22 23:40:47 +0000";
+kernLeft = W;
+kernRight = W;
+lastChange = "2025-12-23 00:13:35 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1584,7 +1630,9 @@ unicode = (87,119);
 },
 {
 glyphname = X;
-lastChange = "2025-12-22 08:03:56 +0000";
+kernLeft = X;
+kernRight = X;
+lastChange = "2025-12-23 00:13:41 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1663,7 +1711,9 @@ unicode = (88,120);
 },
 {
 glyphname = Y;
-lastChange = "2025-12-22 23:41:20 +0000";
+kernLeft = Y;
+kernRight = Y;
+lastChange = "2025-12-23 00:13:46 +0000";
 layers = (
 {
 backgroundImage = {
@@ -1731,7 +1781,9 @@ unicode = (89,121);
 },
 {
 glyphname = Z;
-lastChange = "2025-12-22 23:03:16 +0000";
+kernLeft = Z;
+kernRight = Z;
+lastChange = "2025-12-23 00:13:49 +0000";
 layers = (
 {
 layerId = m01;
