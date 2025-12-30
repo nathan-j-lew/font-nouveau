@@ -45,7 +45,7 @@ magic",
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
 date = "2025-12-02 21:15:18 +0000";
-familyName = Flitwick;
+familyName = "Flitwick 2";
 fontMaster = (
 {
 id = m01;
@@ -86,7 +86,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1407,-1568);
 scale = (1.4,1.4);
@@ -153,7 +153,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/B_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/B_-Regular.tif";
 locked = 1;
 pos = (-345,2917);
 scale = (0.8,0.8);
@@ -236,7 +236,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1421,1549);
 scale = (0.88,0.88);
 };
@@ -471,7 +471,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_-Regular.tif";
 locked = 1;
 pos = (1547,-2009);
 scale = (1.4,1.4);
@@ -543,7 +543,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-285,2959);
 scale = (0.8,0.8);
@@ -804,7 +804,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (1980,-1107);
 scale = (0.8,0.8);
@@ -976,7 +976,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-427,1301);
 scale = (0.8,0.8);
@@ -1098,7 +1098,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1132,2377);
 scale = (0.88,0.88);
 };
@@ -1245,7 +1245,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/S_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/S_-Regular.tif";
 locked = 1;
 pos = (-1150,1378);
 scale = (0.88,0.88);
@@ -1492,7 +1492,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-173,2149);
 scale = (0.8,0.8);
@@ -1567,7 +1567,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/X_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/X_-Regular.tif";
 locked = 1;
 pos = (-333,2041);
 scale = (0.8,0.8);
@@ -1650,7 +1650,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/Y_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/Y_-Regular.tif";
 locked = 1;
 pos = (2471,-449);
 scale = (0.84,0.84);
@@ -1778,7 +1778,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -1864,7 +1864,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -1941,7 +1941,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -2015,7 +2015,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -2096,7 +2096,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -2174,7 +2174,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -2253,7 +2253,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1596,-1568);
 scale = (1.4,1.4);
@@ -2318,7 +2318,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1596,-1568);
 scale = (1.4,1.4);
@@ -2389,7 +2389,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1596,-1568);
 scale = (1.4,1.4);
@@ -2462,7 +2462,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1527,-1568);
 scale = (1.4,1.4);
@@ -2533,7 +2533,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1437,-1568);
 scale = (1.4,1.4);
@@ -2595,7 +2595,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Downloads/IMG_9972.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9972.HEIC;
 locked = 1;
 pos = (1001,-1869);
 scale = (0.8,0.8);
@@ -2668,7 +2668,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/B_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/B_-Regular.tif";
 locked = 1;
 pos = (-330,2917);
 scale = (0.8,0.8);
@@ -2735,7 +2735,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/B_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/B_-Regular.tif";
 locked = 1;
 pos = (-345,2917);
 scale = (0.8,0.8);
@@ -2815,7 +2815,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/B_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/B_-Regular.tif";
 locked = 1;
 pos = (-330,2917);
 scale = (0.8,0.8);
@@ -2907,7 +2907,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1372,1549);
 scale = (0.88,0.88);
 };
@@ -3329,7 +3329,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/G_-Regular.tif";
 locked = 1;
 pos = (1062,-1280);
 scale = (0.88,0.88);
@@ -3390,7 +3390,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/G_-Regular.tif";
 locked = 1;
 pos = (2019,-2050);
 scale = (0.88,0.88);
@@ -3447,7 +3447,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/G_-Regular.tif";
 locked = 1;
 pos = (2019,-2050);
 scale = (0.88,0.88);
@@ -3576,7 +3576,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_.005-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_.005-Regular.tif";
 locked = 1;
 pos = (979,-922);
 scale = (1.4,1.4);
@@ -3639,7 +3639,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_.006-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_.006-Regular.tif";
 locked = 1;
 pos = (1530,-2006);
 scale = (1.4,1.4);
@@ -3716,7 +3716,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/G_-Regular.tif";
 locked = 1;
 pos = (2019,-2050);
 scale = (0.88,0.88);
@@ -3780,7 +3780,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_.008-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_.008-Regular.tif";
 locked = 1;
 pos = (1568,-2009);
 scale = (1.4,1.4);
@@ -3853,7 +3853,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_.009-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_.009-Regular.tif";
 locked = 1;
 pos = (1568,-2009);
 scale = (1.4,1.4);
@@ -3925,7 +3925,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_-Regular.tif";
 locked = 1;
 pos = (1568,-2009);
 scale = (1.4,1.4);
@@ -4000,7 +4000,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_-Regular.tif";
 locked = 1;
 pos = (1547,-2009);
 scale = (1.4,1.4);
@@ -4068,7 +4068,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-273,2959);
 scale = (0.8,0.8);
@@ -5162,7 +5162,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (2001,-1107);
 scale = (0.8,0.8);
@@ -5254,7 +5254,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 pos = (1936,-379);
 scale = (0.8,0.8);
 };
@@ -5341,7 +5341,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (2001,-1107);
 scale = (0.8,0.8);
@@ -5432,7 +5432,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (2001,-1107);
 scale = (0.8,0.8);
@@ -5525,7 +5525,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (1980,-1107);
 scale = (0.8,0.8);
@@ -5622,7 +5622,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (1980,-1107);
 scale = (0.8,0.8);
@@ -5721,7 +5721,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (1980,-1107);
 scale = (0.8,0.8);
@@ -6278,7 +6278,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-412,1301);
 scale = (0.8,0.8);
@@ -6331,7 +6331,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-412,1301);
 scale = (0.8,0.8);
@@ -6384,7 +6384,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-412,1301);
 scale = (0.8,0.8);
@@ -6437,7 +6437,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-412,1301);
 scale = (0.8,0.8);
@@ -6490,7 +6490,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-412,1301);
 scale = (0.8,0.8);
@@ -6643,7 +6643,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1118,2377);
 scale = (0.88,0.88);
 };
@@ -6713,7 +6713,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1118,2377);
 scale = (0.88,0.88);
 };
@@ -6783,7 +6783,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1118,2377);
 scale = (0.88,0.88);
 };
@@ -7750,7 +7750,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/S_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/S_-Regular.tif";
 locked = 1;
 pos = (-1158,1378);
 scale = (0.88,0.88);
@@ -7814,7 +7814,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/S_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/S_-Regular.tif";
 locked = 1;
 pos = (-1158,1378);
 scale = (0.88,0.88);
@@ -7876,7 +7876,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/S_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/S_-Regular.tif";
 locked = 1;
 pos = (-1158,1378);
 scale = (0.88,0.88);
@@ -8591,7 +8591,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_.001-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_.001-Regular.tif";
 locked = 1;
 pos = (-299,2145);
 scale = (0.8,0.8);
@@ -8680,7 +8680,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-729,2908);
 scale = (0.8,0.8);
@@ -8742,7 +8742,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -8826,7 +8826,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -8927,7 +8927,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -9045,7 +9045,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -9161,7 +9161,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/W_.007-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/W_.007-Regular.tif";
 locked = 1;
 pos = (4861,-947);
 scale = (1.4,1.4);
@@ -9243,7 +9243,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -9332,7 +9332,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -9415,7 +9415,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-173,2149);
 scale = (0.8,0.8);
@@ -9500,7 +9500,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-192,2149);
 scale = (0.8,0.8);
@@ -9588,7 +9588,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/X_.001-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/X_.001-Regular.tif";
 locked = 1;
 pos = (-313,2041);
 scale = (0.8,0.8);
@@ -9665,7 +9665,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/X_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/X_-Regular.tif";
 locked = 1;
 pos = (-313,2041);
 scale = (0.8,0.8);
@@ -9743,7 +9743,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-978,1347);
 scale = (0.8,0.8);
@@ -9800,7 +9800,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-978,1347);
 scale = (0.8,0.8);
@@ -9856,7 +9856,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-978,1347);
 scale = (0.8,0.8);
@@ -9925,7 +9925,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-978,1347);
 scale = (0.8,0.8);
@@ -10001,7 +10001,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-978,1347);
 scale = (0.8,0.8);
@@ -10082,7 +10082,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-978,1347);
 scale = (0.8,0.8);
@@ -10164,7 +10164,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/Y_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/Y_-Regular.tif";
 locked = 1;
 pos = (2496,-449);
 scale = (0.84,0.84);
@@ -10237,7 +10237,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/Y_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/Y_-Regular.tif";
 locked = 1;
 pos = (2471,-449);
 scale = (0.84,0.84);
