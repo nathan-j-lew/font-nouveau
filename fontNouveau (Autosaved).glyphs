@@ -83,7 +83,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/A_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/A_-Regular.tif";
 locked = 1;
 pos = (1407,-1568);
 scale = (1.4,1.4);
@@ -148,7 +148,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/B_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/B_-Regular.tif";
 locked = 1;
 pos = (-340,2917);
 scale = (0.8,0.8);
@@ -235,7 +235,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1424,1549);
 scale = (0.88,0.88);
 };
@@ -520,7 +520,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/G_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/G_-Regular.tif";
 locked = 1;
 pos = (1554,-2009);
 scale = (1.4,1.4);
@@ -593,7 +593,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-285,2959);
 scale = (0.8,0.8);
@@ -886,7 +886,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "../../../Desktop/Images/M_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/M_-Regular.tif";
 locked = 1;
 pos = (1991,-1107);
 scale = (0.8,0.8);
@@ -1060,7 +1060,7 @@ layers = (
 {
 backgroundImage = {
 angle = -89;
-imagePath = "../../../Downloads/IMG_9975.HEIC";
+imagePath = /Users/nathanlew/Documents/Downloads/IMG_9975.HEIC;
 locked = 1;
 pos = (-421,1301);
 scale = (0.8,0.8);
@@ -1183,7 +1183,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/Q_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/Q_-Regular.tif";
 pos = (-1129,2377);
 scale = (0.88,0.88);
 };
@@ -1333,7 +1333,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/S_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/S_-Regular.tif";
 locked = 1;
 pos = (-1150,1378);
 scale = (0.88,0.88);
@@ -1580,7 +1580,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/W_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/W_-Regular.tif";
 locked = 1;
 pos = (-173,2149);
 scale = (0.8,0.8);
@@ -1655,7 +1655,7 @@ layers = (
 {
 backgroundImage = {
 angle = -90;
-imagePath = "../../../Desktop/Images/X_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/Desktop/Images/X_-Regular.tif";
 locked = 1;
 pos = (-333,2041);
 scale = (0.8,0.8);
@@ -1736,12 +1736,12 @@ unicode = (88,120);
 glyphname = Y;
 kernLeft = Y;
 kernRight = Y;
-lastChange = "2026-01-02 20:23:39 +0000";
+lastChange = "2026-01-02 20:23:40 +0000";
 layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/Y_-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/Y_-Regular.tif";
 locked = 1;
 pos = (2471,-449);
 scale = (0.84,0.84);
@@ -1799,6 +1799,7 @@ width = 650;
 }
 );
 unicode = (89,121);
+changeCount = 1;
 },
 {
 glyphname = Z;
@@ -1968,7 +1969,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 pos = (4492,-2974);
 scale = (1.3,1.3);
 };
@@ -2023,7 +2024,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 pos = (3942,-2199);
 scale = (1.3,1.3);
 };
@@ -2077,7 +2078,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3269,-2964);
 scale = (1.3,1.3);
@@ -2225,7 +2226,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3952,-2199);
 scale = (1.3,1.3);
@@ -2442,7 +2443,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one.001-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one.001-Regular.tif";
 pos = (4432,-2974);
 scale = (1.3,1.3);
 };
@@ -2499,7 +2500,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (4012,-2964);
 scale = (1.3,1.3);
@@ -2553,7 +2554,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3302,-2964);
 scale = (1.3,1.3);
@@ -2621,7 +2622,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3952,-2199);
 scale = (1.3,1.3);
@@ -2723,7 +2724,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (4492,-2974);
 scale = (1.3,1.3);
@@ -2775,7 +2776,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3302,-2964);
 scale = (1.3,1.3);
@@ -2840,7 +2841,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3952,-2199);
 scale = (1.3,1.3);
@@ -2905,7 +2906,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3952,-2199);
 scale = (1.3,1.3);
@@ -2981,7 +2982,7 @@ layers = (
 {
 backgroundImage = {
 angle = 90;
-imagePath = "Images/one-Regular.tif";
+imagePath = "/Users/nathanlew/Documents/GitHub/font-nouveau/font-nouveau/Images/one-Regular.tif";
 locked = 1;
 pos = (3952,-2199);
 scale = (1.3,1.3);
@@ -3045,14 +3046,15 @@ width = 560;
 },
 {
 glyphname = space;
-lastChange = "2025-12-04 21:09:01 +0000";
+lastChange = "2026-01-02 20:28:43 +0000";
 layers = (
 {
 layerId = m01;
-width = 200;
+width = 300;
 }
 );
 unicode = 32;
+changeCount = 10;
 },
 {
 export = 0;
